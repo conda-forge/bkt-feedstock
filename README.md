@@ -3,7 +3,7 @@ About bkt-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/bkt-feedstock/blob/main/LICENSE.txt)
 
-Home: https://www.bkt.rs
+Home: https://www.bkt.rs/
 
 Package license: MIT
 
@@ -15,14 +15,7 @@ Current build status
 ====================
 
 
-<table><tr>
-    <td>Travis</td>
-    <td>
-      <a href="https://app.travis-ci.com/conda-forge/bkt-feedstock">
-        <img alt="linux" src="https://img.shields.io/travis/com/conda-forge/bkt-feedstock/main.svg?label=Linux">
-      </a>
-    </td>
-  </tr>
+<table>
     
   <tr>
     <td>Azure</td>
